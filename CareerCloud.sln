@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.Pocos", "CareerCloud.Pocos\CareerCloud.Pocos.csproj", "{B162ECBD-A859-41BA-8A28-50F012410954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.UnitTests.Assignment1", "CareerCloud.UnitTests.Assignment1\CareerCloud.UnitTests.Assignment1.csproj", "{0EF4F160-68B1-491A-925F-064D66EC3283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.DataAccessLayer", "CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj", "{A28B318F-A3D6-430E-8A03-629BCB2A870C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.ADODataAccessLayer", "CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj", "{078B3F0E-DFC4-4879-9764-6694FBA1B147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.UnitTests.Assignment2", "..\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2.csproj", "{6E68DDCD-CDB9-4ABF-8DF3-57AE31F474E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.BusinessLogicLayer", "CareerCloud.BusinessLogicLayer\CareerCloud.BusinessLogicLayer.csproj", "{4A82B385-BB34-4916-8D57-3E408A2281E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.UnitTests.Assignment3", "..\CareerCloud.UnitTests.Assignment3\CareerCloud.UnitTests.Assignment3\CareerCloud.UnitTests.Assignment3.csproj", "{2D394F6A-C67B-4127-895E-8F6812942AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B162ECBD-A859-41BA-8A28-50F012410954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B162ECBD-A859-41BA-8A28-50F012410954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B162ECBD-A859-41BA-8A28-50F012410954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B162ECBD-A859-41BA-8A28-50F012410954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF4F160-68B1-491A-925F-064D66EC3283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF4F160-68B1-491A-925F-064D66EC3283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF4F160-68B1-491A-925F-064D66EC3283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF4F160-68B1-491A-925F-064D66EC3283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28B318F-A3D6-430E-8A03-629BCB2A870C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28B318F-A3D6-430E-8A03-629BCB2A870C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28B318F-A3D6-430E-8A03-629BCB2A870C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28B318F-A3D6-430E-8A03-629BCB2A870C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078B3F0E-DFC4-4879-9764-6694FBA1B147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078B3F0E-DFC4-4879-9764-6694FBA1B147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078B3F0E-DFC4-4879-9764-6694FBA1B147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078B3F0E-DFC4-4879-9764-6694FBA1B147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E68DDCD-CDB9-4ABF-8DF3-57AE31F474E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E68DDCD-CDB9-4ABF-8DF3-57AE31F474E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E68DDCD-CDB9-4ABF-8DF3-57AE31F474E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E68DDCD-CDB9-4ABF-8DF3-57AE31F474E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A82B385-BB34-4916-8D57-3E408A2281E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A82B385-BB34-4916-8D57-3E408A2281E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A82B385-BB34-4916-8D57-3E408A2281E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A82B385-BB34-4916-8D57-3E408A2281E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D394F6A-C67B-4127-895E-8F6812942AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D394F6A-C67B-4127-895E-8F6812942AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D394F6A-C67B-4127-895E-8F6812942AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D394F6A-C67B-4127-895E-8F6812942AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709F429F-E065-40E1-9251-B895138481DB}
+	EndGlobalSection
+EndGlobal
